@@ -1,0 +1,25 @@
+---
+import "../styles/index.css"; 
+import SectionMain from "../components/SectionMain.tsx";
+---
+
+<html lang="es">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="description" content="Elige la comida para tu día, con una gran variedad de distintas regiones y cuándo quieras">
+		<meta name="keywords" content="comidas, elegir, que comer">
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Qué comer</title>
+	</head>
+	<body>
+		<main class="main">
+			<header class="header">
+				<h1 class="title-header">Qué comer</h1>
+				<p class="description-header">Elige que comer en el día a día con múltiples comidas y recetas</p>
+			</header>
+			<hr />
+			<SectionMain client:load />
+		</main>
+	</body>
+</html>
