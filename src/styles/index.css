@@ -16,6 +16,9 @@ body {
     width: 70%; 
     height: 100vh;
     margin: auto;
+    display: flex; 
+    flex-direction: column;
+    gap: 20px;
 }
 
 .header {
@@ -42,5 +45,11 @@ body {
     .main {
         width: 100%;
         height: auto;
+    }
+}
+
+@media (max-width: 425px) {
+    .title-header, .description-header {
+        text-align: center;
     }
 }

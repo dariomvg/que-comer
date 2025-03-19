@@ -408,5 +408,180 @@ export const foods: Food[] = [
           "4. Servir inmediatamente con pan o como acompañamiento del asado."
         ]
       },
+      {
+        "id": 35,
+        "name": "Tzatziki",
+        "detail": "Salsa griega a base de yogur, pepino y ajo, ideal para acompañar carnes y pan pita.",
+        "prepare": [
+          "1. Rallar pepino y escurrir el exceso de agua.",
+          "2. Mezclar con yogur griego, ajo picado, jugo de limón y eneldo.",
+          "3. Sazonar con sal y pimienta al gusto.",
+          "4. Dejar enfriar antes de servir."
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Baba Ganoush",
+        "detail": "Dip de berenjena asada típico de la cocina árabe, similar al hummus.",
+        "prepare": [
+          "1. Asar berenjenas hasta que la piel esté carbonizada.",
+          "2. Pelarlas y triturar la pulpa con ajo, tahini y jugo de limón.",
+          "3. Agregar sal, pimienta y aceite de oliva.",
+          "4. Servir con pan pita o vegetales."
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Okonomiyaki",
+        "detail": "Tortilla japonesa a base de harina, huevo y repollo, con diversos ingredientes opcionales.",
+        "prepare": [
+          "1. Mezclar harina, agua y huevo hasta obtener una masa.",
+          "2. Agregar repollo picado, cebolla y otros ingredientes al gusto.",
+          "3. Cocinar en una sartén caliente hasta que esté dorado.",
+          "4. Servir con salsa okonomiyaki y mayonesa."
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Arepas",
+        "detail": "Pan de maíz típico de Venezuela y Colombia, relleno de diversos ingredientes.",
+        "prepare": [
+          "1. Mezclar harina de maíz, agua y sal hasta formar una masa.",
+          "2. Formar discos y cocinar en una plancha caliente.",
+          "3. Abrir por la mitad y rellenar con queso, carne o aguacate.",
+          "4. Servir caliente."
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Kimchi",
+        "detail": "Fermentado coreano a base de col china y especias picantes.",
+        "prepare": [
+          "1. Cortar la col china y salar durante varias horas.",
+          "2. Enjuagar y mezclar con pasta de chile, ajo, jengibre y cebolla.",
+          "3. Fermentar en un frasco hermético durante varios días.",
+          "4. Consumir solo o como acompañamiento."
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Coxinha",
+        "detail": "Aperitivo brasileño en forma de muslo de pollo frito.",
+        "prepare": [
+          "1. Cocinar pollo y desmenuzarlo.",
+          "2. Preparar una masa con caldo, harina y mantequilla.",
+          "3. Rellenar con el pollo y dar forma de muslo.",
+          "4. Empanizar y freír hasta dorar."
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Baklava",
+        "detail": "Postre turco hecho con capas de masa filo, frutos secos y miel.",
+        "prepare": [
+          "1. Extender capas de masa filo y pincelar con mantequilla.",
+          "2. Añadir una mezcla de nueces y azúcar.",
+          "3. Hornear hasta dorar y bañar con almíbar de miel.",
+          "4. Dejar enfriar antes de servir."
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Causa Limeña",
+        "detail": "Plato peruano a base de papa amarilla y relleno de atún, pollo o mariscos.",
+        "prepare": [
+          "1. Hervir y triturar papas amarillas con ají y limón.",
+          "2. Dividir en capas y rellenar con atún o pollo.",
+          "3. Compactar en un molde y refrigerar.",
+          "4. Servir frío con mayonesa y huevo duro."
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Tteokbokki",
+        "detail": "Plato callejero coreano hecho con pasteles de arroz en salsa picante.",
+        "prepare": [
+          "1. Hervir dashi con gochujang y azúcar.",
+          "2. Agregar pasteles de arroz y cocinar hasta espesar.",
+          "3. Añadir huevo duro y cebolleta.",
+          "4. Servir caliente."
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Tamales",
+        "detail": "Masa de maíz rellena, envuelta en hojas de maíz y cocida al vapor.",
+        "prepare": [
+          "1. Mezclar masa de maíz con caldo y manteca.",
+          "2. Rellenar con carne, queso o chiles.",
+          "3. Envolver en hojas de maíz y cocinar al vapor.",
+          "4. Servir caliente."
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Samosas",
+        "detail": "Empanadillas fritas rellenas de papa y especias, típicas de la India.",
+        "prepare": [
+          "1. Preparar una masa fina con harina y agua.",
+          "2. Rellenar con papa cocida, guisantes y especias.",
+          "3. Sellar en forma triangular y freír hasta dorar.",
+          "4. Servir con chutney."
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Dumplings",
+        "detail": "Bocaditos asiáticos de masa rellenos de carne o verduras.",
+        "prepare": [
+          "1. Mezclar harina y agua para hacer la masa.",
+          "2. Rellenar con carne, col y jengibre.",
+          "3. Cocinar al vapor o dorar en sartén.",
+          "4. Servir con salsa de soja."
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Chiles en Nogada",
+        "detail": "Plato mexicano de chiles rellenos con salsa de nuez y granada.",
+        "prepare": [
+          "1. Asar y pelar chiles poblanos.",
+          "2. Rellenar con picadillo de carne y frutas.",
+          "3. Cubrir con salsa de nuez y decorar con granada.",
+          "4. Servir frío."
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Ramen",
+        "detail": "Sopa japonesa con fideos, caldo y toppings variados.",
+        "prepare": [
+          "1. Cocinar un caldo base con cerdo o pollo.",
+          "2. Agregar fideos y toppings como huevo y cebolla.",
+          "3. Servir caliente con salsa de soja o miso."
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Pierogi",
+        "detail": "Dumplings polacos rellenos de papa, queso o carne.",
+        "prepare": [
+          "1. Hacer una masa con harina y huevo.",
+          "2. Rellenar con puré de papa o queso.",
+          "3. Cocinar en agua hirviendo y dorar en sartén.",
+          "4. Servir con crema agria."
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Ratatouille",
+        "detail": "Plato francés de vegetales asados en salsa de tomate.",
+        "prepare": [
+          "1. Cortar berenjena, calabacín y pimientos en rodajas.",
+          "2. Preparar una salsa de tomate con ajo y cebolla.",
+          "3. Hornear los vegetales sobre la salsa.",
+          "4. Servir caliente."
+        ]
+      }
   ];
   

@@ -17,7 +17,7 @@ export default function SectionMain(): JSX.Element {
       <button className="btn-select-main" onClick={selectFood}>
         Elegir comida
       </button>
-      <section>
+      <section className="container-foods">
         {food && (
           <div className="card-food">
             <h2 className="title-card">{food.name}</h2>

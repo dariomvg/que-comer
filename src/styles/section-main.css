@@ -9,6 +9,13 @@
   overflow-y: auto;
 }
 
+.container-foods {
+  width: 100%;
+  height: 100%;
+  padding-top: 10px;
+
+}
+
 .btn-select-main {
   padding: 10px;
   font-size: 16px;
@@ -37,16 +44,18 @@
 .title-card {
   color: #fff;
   text-align: center;
+  font-size: 35px;
 }
 
 .detail-card {
-  color: #ddd;
+  color: #fff;
   text-align: center;
-  text-decoration: underline;
+  font-size: 25px;
 }
 
 .prepare-card {
-  color: #fff;
+  color: #acacac;
+  font-size: 18px;
 }
 
 @media (max-width: 768px) {
